@@ -1,0 +1,3 @@
+[submodule "starter-infrastructure"]
+	path = starter-infrastructure
+	url = https://github.com/builder-hub/starter-infrastructure.git
